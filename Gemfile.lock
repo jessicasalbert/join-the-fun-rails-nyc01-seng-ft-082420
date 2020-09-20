@@ -93,9 +93,15 @@ GEM
     pry (0.13.1)
       coderay (~> 1.1)
       method_source (~> 1.0)
+<<<<<<< HEAD
     pry-byebug (3.7.0)
       byebug (~> 11.0)
       pry (~> 0.10)
+=======
+    pry-byebug (3.9.0)
+      byebug (~> 11.0)
+      pry (~> 0.13.0)
+>>>>>>> c8eaaa46b88000dc5e0a6685917f5397c61d4ae2
     public_suffix (4.0.6)
     rack (2.2.3)
     rack-test (0.6.3)
@@ -206,4 +212,8 @@ DEPENDENCIES
   uglifier
 
 BUNDLED WITH
+<<<<<<< HEAD
    2.1.4
+=======
+   2.0.1
+>>>>>>> c8eaaa46b88000dc5e0a6685917f5397c61d4ae2
